@@ -401,6 +401,12 @@ img[src$=".jpg"] {
   height: 250px;
 }
 
+img[src$=".png"] {
+  width: 350px;
+  height: 250px;
+}
+
+
 /* End of Section 5 */
 
 /* Responsive */
